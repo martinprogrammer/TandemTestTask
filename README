@@ -1,4 +1,4 @@
-This is a .Net solution that consists of
+This is a .Net 4.5 solution built in VS2013 that consists of
 1) Web Api
 2) Business layer - class lib
 3) Data access layer - class lib
