@@ -4,7 +4,7 @@ This is a .Net solution that consists of
 3) Data access layer - class lib
 4) Domain entities - class lib
 
-I used Unity IoC
+I used Unity IoC & NUnit
 I didn't use any authentication / authorisation - I'm simply letting all userIds go through
 I only did basic unit tests for the data repository
 No error handling 
