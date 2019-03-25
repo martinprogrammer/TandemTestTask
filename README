@@ -1,0 +1,12 @@
+This is a .Net solution that consists of
+1) Web Api
+2) Business layer - class lib
+3) Data access layer - class lib
+4) Domain entities - class lib
+
+I used Unity IoC
+I didn't use any authentication / authorisation - I'm simply letting all userIds go through
+I only did basic unit tests for the data repository
+No error handling 
+No async
+
